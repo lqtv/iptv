@@ -1,2 +1,2 @@
 # APTV
-TVchannels/m3u/epg/m3u8/TV icon
+TVchannels/m3u/epg/TV icon
