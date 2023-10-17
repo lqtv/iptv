@@ -3,7 +3,7 @@ TVchannels/m3u/epg/TV icon
 # 【综合频道】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
-|第一财经|<img src="https://gitee.com/lqky/iptv/raw/master/logo/yicai.png" width="359" height="139">|CCTV2|<img src="https://gitee.com/lqky/iptv/raw/master/logo/CCTV2.png" width="359" height="139">|
+|第一财经|<img src="https://gitee.com/lqky/iptv/raw/master/logo/yicai.png" width="359" height="139">|CCTV2|<img src="https://github.com/lqky/iptv/blob/master/logo/CCTV2.png" width="359" height="139">|
 |CCTV8|<img src="https://gitee.com/lqky/iptv/raw/master/logo/CCTV8.png" width="359" height="139">|CCTV9|<img src="https://gitee.com/lqky/iptv/raw/master/logo/CCTV9.png" width="359" height="139">|
 |CCTV13|<img src="https://gitee.com/lqky/iptv/raw/master/logo/CCTV13.png" width="359" height="139">|CCTV15|<img src="https://gitee.com/lqky/iptv/raw/master/logo/CCTV15.png" width="359" height="139">|
 |世界地理|<img src="https://gitee.com/lqky/iptv/raw/master/logo/CCTVworldgeo.png" width="359" height="139">|央视台球|<img src="https://gitee.com/lqky/iptv/raw/master/logo/CCTVbilliards.png" width="359" height="139">|
