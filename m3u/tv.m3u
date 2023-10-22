@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="根据自己网络选择最流畅的线路",分类中切换线路
-https://cntv.sbs/tv/ipv6.php?id=102
-#EXTINF:-1 group-title="卡顿播放不畅重新导入直播源",卡顿播放不畅重新导入直播源
-https://cntv.sbs/tv/ipv6.php?id=102
-#EXTINF:-1 group-title="微信售后：royalcristal",微信:royalcristal
-https://cntv.sbs/tv/ipv6.php?id=102
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="线路1",CCTV1
 http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="线路1",CCTV2
