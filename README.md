@@ -20,20 +20,20 @@ TVchannels/m3u/epg/TV icon
 
 ## 目录
 
-- 🚀 [使用说明](#使用说明)
-- 📺 [播放列表](#播放列表)
-- 🗓 [节目单](#节目单)
-- 🧑‍💻 [播放器推荐](#播放器推荐)
+- 📑 [使用说明](#使用说明)
+- 🌏 [播放源](#播放源)
+- 📒 [节目单](#节目单)
+- ▶️ [播放器推荐](#播放器推荐)
 
 ## 使用说明
 
 只需将以下播放列表链接插入任何支持实时流式传输的视频播放器，然后按打开即可。播放器下载及使用可自行搜索。
 
-## 播放列表
+## 播放源
 ```
 https://raw.githubusercontent.com/lqky/iptv/main/m3u/tv.m3u
 ```
-## 播放列表（备选）
+## 播放源（备选）
 
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/lqky/iptv/main/m3u/tv.m3u
